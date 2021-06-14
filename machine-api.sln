@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "machine-api", "machine-api.csproj", "{AB8513EC-10C4-442B-8F97-25A1A579A2F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8513EC-10C4-442B-8F97-25A1A579A2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8513EC-10C4-442B-8F97-25A1A579A2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8513EC-10C4-442B-8F97-25A1A579A2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8513EC-10C4-442B-8F97-25A1A579A2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49A9DB9A-CC30-44EE-B6D7-244AC488A7CF}
+	EndGlobalSection
+EndGlobal
