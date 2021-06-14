@@ -5,5 +5,9 @@
     <RootNamespace>machine_api</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.0.0" />
+  </ItemGroup>
+
 
 </Project>
