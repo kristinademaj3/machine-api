@@ -12,7 +12,8 @@ namespace machine_api.Controllers
         public static IList<Machine> machineList = new List<Machine>{
             new Machine { Id = 1, Name = "Machine1" },
             new Machine { Id = 2, Name = "Machine2" },
-            new Machine { Id = 3, Name = "Machine3" }
+            new Machine { Id = 3, Name = "Machine3" },
+            new Machine { Id = 4, Name = "Machine4" },
             };
         [HttpGet]
         public IEnumerable<Machine> Get()
