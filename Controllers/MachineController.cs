@@ -13,7 +13,7 @@ namespace machine_api.Controllers
             new Machine { Id = 1, Name = "Machine1" },
             new Machine { Id = 2, Name = "Machine2" },
             new Machine { Id = 3, Name = "Machine3" },
-            new Machine { Id = 6, Name = "Machine6" },
+            new Machine { Id = 5, Name = "Machine5" },
             };
         [HttpGet]
         public IEnumerable<Machine> Get()
